@@ -4,6 +4,7 @@ This Code Refactor project was a test of my debugging skills. I performed a revi
 - Replaced numerous <$div$> elements with easier to read semantic elements.
 - Added *alt* text to images for improved accessibility. 
 - Consolidated CSS code to remove redundancies and patch the updated element changes in the HTML.
+- Added comments to the HTML and CSS code to improve code clarity.
 
 Additionally, there was a navigation bug that was discovered during the course of the project - this was also addressed.
 
